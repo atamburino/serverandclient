@@ -1,0 +1,7 @@
+﻿  clientside.cpp
+  Program.cpp
+  serverside.cpp
+  Generating Code...
+C:\Users\Windows-hater\OneDrive\Desktop\serverandclient\serverandclient\serverside.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Windows-hater\OneDrive\Desktop\serverandclient\serverandclient\serverside.cpp(112,24): warning C4018: '<': signed/unsigned mismatch
+  serverandclient.vcxproj -> C:\Users\Windows-hater\OneDrive\Desktop\serverandclient\Debug\serverandclient.exe
